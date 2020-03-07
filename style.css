@@ -238,7 +238,7 @@ h2 {
 
 .expenses .item__value,
 .expenses .item__percentage,
-.expenses .item__delete--btn {
+.expenses .item__delete--btn  {
     color: #FF5049;
 }
 
